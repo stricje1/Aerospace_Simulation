@@ -1,0 +1,1 @@
+figure (2), plot(cos(t(1:3100)'*xaccel(1:3100))+sin(t(1:3100)'*xaccel(1:3100)))
